@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubhamsharmaer/)
 - 🔗 Folow me on: [Twitter](https://twitter.com/shubhamsharmaer), [Instagram](https://www.instagram.com/shubhamsharmaer/)
-- 👀 Me on other platforms: [HackerRank](https://www.hackerrank.com/shubhamsharmaer), [Acclaim](https://www.youracclaim.com/users/shubhamsharmaer), [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shubhamsharmaer), [CodePen](https://codepen.io/shubhamsharmaer)
+- 👀 Me on other platforms: [HackerRank](https://www.hackerrank.com/shubhamsharmaer), [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shubhamsharmaer), [CodePen](https://codepen.io/shubhamsharmaer)
 - 🌟 Hope you enjoy my stuff.
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamsharmaer&&show_icons=true&title_color=ffffff&icon_color=bb2ac&text_color=daf7dc&bg_color=191919">
